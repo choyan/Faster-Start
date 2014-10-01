@@ -1,6 +1,6 @@
 # Faster-Start
 
-Faster-Start is basically a start-up package to boost your work on a project. Downloading and getting all necessary files and setting them up for a small project is a bit lengthy task. 
+Smaller projects take big time to set-up frameworks, libraries and so on. Faster-Start is basically a start-up package to boost your work on a project with some necessary libraries included.
 
 
 This project includes 
