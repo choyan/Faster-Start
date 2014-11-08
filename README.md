@@ -6,14 +6,14 @@ Smaller projects take big time to set-up frameworks, libraries and so on. Faster
 This project includes 
 
 * HTML5 Boilerplate 4.3.0
-* Bootstrap 3.2.0
+* Bootstrap 3.3.0
 * Modernizr 2.8.3
-* Font Awesome 4.2
+* Font Awesome 4.2.0
 
 
 ## Quick start
 
-Just clone the package and start using it :)
+Just clone the package `git clone https://github.com/choyan/Faster-Start.git` and start using it :)
 
 
 ## Features
