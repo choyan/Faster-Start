@@ -5,8 +5,8 @@ Smaller projects take big time to set-up frameworks, libraries and so on. Faster
 
 This project includes 
 
-* HTML5 Boilerplate 4.3.0
-* Bootstrap 3.3.1
+* HTML5 Boilerplate 5.0
+* Bootstrap 3.3.2
 * Modernizr 2.8.3
 * Font Awesome 4.2.0
 
